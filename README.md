@@ -1,6 +1,6 @@
 # Classificador_texto_telegram
 
-# Trabalho 2 de IA
+# Trabalho 2 de IA, classificando noticias economica para entender a tendencia do Dolar
 
 Para rodar o colab, precisa colocar a pasta "T2_IA" no seu Google driver.
  
